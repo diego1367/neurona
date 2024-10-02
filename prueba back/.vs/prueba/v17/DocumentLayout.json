@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\prueba\\middleware\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\middleware\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBFA6C1-F58D-44C2-84ED-15280D77540D}|Data\\Data.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBFA6C1-F58D-44C2-84ED-15280D77540D}|Data\\Data.csproj|solutionrelative:data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\businnes\\transferenciabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\transferenciabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\prueba\\controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\controllers\\transferenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\entities\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798395D5-6159-47C6-99CB-A692E5B8CAE4}|Entities\\Entities.csproj|solutionrelative:entities\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\businnes\\interfaces\\itransferenciabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5DB61B-ACE7-491A-B511-261D7663F35D}|Businnes\\Businnes.csproj|solutionrelative:businnes\\interfaces\\itransferenciabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|c:\\users\\diegoguzman\\downloads\\prueba\\prueba\\prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9785F487-9D0B-4C60-A293-381982FD5545}|Prueba\\Prueba.csproj|solutionrelative:prueba\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\appsettings.json",
+              "RelativeDocumentMoniker": "Prueba\\appsettings.json",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\appsettings.json",
+              "RelativeToolTip": "Prueba\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-01T17:27:37.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransferenciaController.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Controllers\\TransferenciaController.cs",
+              "RelativeDocumentMoniker": "Prueba\\Controllers\\TransferenciaController.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Controllers\\TransferenciaController.cs",
+              "RelativeToolTip": "Prueba\\Controllers\\TransferenciaController.cs",
+              "ViewState": "AgIAAAAAAAAAZ2ZmZuYcwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:25:07.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransferenciaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\TransferenciaBusiness.cs",
+              "RelativeDocumentMoniker": "Businnes\\TransferenciaBusiness.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\TransferenciaBusiness.cs",
+              "RelativeToolTip": "Businnes\\TransferenciaBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:24:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransferenciaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Interfaces\\ITransferenciaBusiness.cs",
+              "RelativeDocumentMoniker": "Businnes\\Interfaces\\ITransferenciaBusiness.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Interfaces\\ITransferenciaBusiness.cs",
+              "RelativeToolTip": "Businnes\\Interfaces\\ITransferenciaBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Transferencia.cs",
+              "RelativeDocumentMoniker": "Entities\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Transferencia.cs",
+              "RelativeToolTip": "Entities\\Transferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:09.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IoC.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\MiddleWare\\IoC.cs",
+              "RelativeDocumentMoniker": "Prueba\\MiddleWare\\IoC.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\MiddleWare\\IoC.cs",
+              "RelativeToolTip": "Prueba\\MiddleWare\\IoC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:22:23.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\ContextDb.cs",
+              "RelativeDocumentMoniker": "Data\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\ContextDb.cs",
+              "RelativeToolTip": "Data\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:21:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba\\Program.cs",
+              "ToolTip": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Program.cs",
+              "RelativeToolTip": "Prueba\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:23:00.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
