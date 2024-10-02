@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7lmtBXzDItg=",
+  "dgSpecHash": "0LRE8vSDhMo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Prueba.csproj",
+  "projectFilePath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\Prueba.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\diegoguzman\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\diegoguzman\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

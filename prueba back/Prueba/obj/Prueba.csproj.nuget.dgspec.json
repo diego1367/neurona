@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Prueba.csproj": {}
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Businnes.csproj": {
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\Businnes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Businnes.csproj",
+        "projectUniqueName": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\Businnes.csproj",
         "projectName": "Businnes",
-        "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Businnes.csproj",
+        "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\Businnes.csproj",
         "packagesPath": "C:\\Users\\diegoguzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\obj\\",
+        "outputPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegoguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\Data.csproj": {
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\diegoguzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\obj\\",
+        "outputPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegoguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj": {
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\diegoguzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegoguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -208,14 +208,14 @@
         }
       }
     },
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Prueba.csproj": {
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\diegoguzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Prueba\\obj\\",
+        "outputPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegoguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -233,11 +233,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Businnes.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Businnes\\Businnes.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\Businnes.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Businnes\\Businnes.csproj"
               },
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj"
               }
             }
           }
@@ -285,14 +285,14 @@
         }
       }
     },
-    "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj": {
+    "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\diegoguzman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\diegoguzman\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -310,8 +310,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\diegoguzman\\Downloads\\prueba\\prueba\\Data\\Data.csproj"
+              "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\diegoguzman\\Documents\\github\\neurona\\prueba back\\Data\\Data.csproj"
               }
             }
           }
